@@ -25,8 +25,8 @@ Creating games for fun, composing songs,
 </p>
 
 
-<div align="left">
-<img src="./dino.gif" width="100%"  alt="Dino GIF" />
+<div align="middle">
+  <img src="https://github.com/FelixAllard/FelixAllard/blob/main/Dino.gif?raw=true" alt="Dino GIF" style="width: 100%" />
 </div>
 
 

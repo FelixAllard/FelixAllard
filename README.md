@@ -17,7 +17,7 @@
       <br/>
 Creating games for fun, composing songs,
           <br/>
-    Loves to learn and collabo
+    Loves to learn and collab
   </samp>
   <br/>
   <br/>

@@ -5,6 +5,9 @@
   <a href="https://discordapp.com/users/491029255795376158" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
+  
+
+  
 </div>
 
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
@@ -19,10 +22,11 @@ Creating games for fun, composing songs,
           <br/>
     Loves to learn and collab
   </samp>
-  <br/>
-  <br/>
-  <br/>
+
 </p>
+<div align="center">
+    <img src="https://profile-counter.glitch.me/FelixAllard/count.svg?"  />
+  </div>
 
 
 <div align="middle">
